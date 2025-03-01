@@ -1,0 +1,1 @@
+Algorithm was simplified and string concatenations were switched to appending to a list to improve big O. Obtained O(n) (or O(n*k)) time complexity, where k is average size of a string.
