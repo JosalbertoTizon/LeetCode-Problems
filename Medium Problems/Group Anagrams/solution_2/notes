@@ -1,0 +1,1 @@
+Usando string ordenada como hash O(n*k*logk). Obs: Se usar vetor de frequencias como hash, O(n*k)
