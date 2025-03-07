@@ -1,1 +1,1 @@
-O(1) time complexity but O(n) space complexity using two arrays of left and right partial products
+O(1) time complexity but O(n) extra space complexity using two arrays for left and right partial products. O(1) extra space complexity can easily be achieved using the output array to store the left partial products and then multiplying each element by the corresponding right partial product value
