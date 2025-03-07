@@ -1,0 +1,1 @@
+Used arrays of sets to store the elements that are in each column, row and 3x3 square. Time complexity of O(1)
