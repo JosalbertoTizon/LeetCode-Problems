@@ -1,0 +1,1 @@
+Solução com dois loops, pode ser O(n^2) no pior caso se o array tiver muitos elementos repetidos e count() ser chamado várias vezes

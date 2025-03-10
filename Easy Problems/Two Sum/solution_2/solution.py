@@ -1,4 +1,4 @@
-class Solution:
+lass Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         remains = {}
         for i, num in enumerate(nums):
