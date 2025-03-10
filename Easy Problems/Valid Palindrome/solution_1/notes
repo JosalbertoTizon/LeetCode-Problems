@@ -1,0 +1,1 @@
+O(n) time complexity and O(n) space complexity. Could be O(1) space complexity if instead of using regex to remove non alphanumeric characters we just did that during the two pointer loop
