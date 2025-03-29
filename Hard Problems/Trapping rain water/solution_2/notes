@@ -1,0 +1,1 @@
+O(n) solution using two arrays to store tallest heights to left and right of a given element. The amount of water above each element is then calculated taking the difference between the smallest between the tallest to left and tallest to right and the current element.
